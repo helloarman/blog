@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arman&#039;s Blog</title>
+	<atom:link href="https://helloarman.github.io/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://helloarman.github.io/blog</link>
+	<description>Welcome</description>
+	<lastBuildDate>Fri, 30 Jul 2021 18:55:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://helloarman.github.io/blog/wp-content/uploads/2021/07/icon-01-01-01.png</url>
+	<title>Arman&#039;s Blog</title>
+	<link>https://helloarman.github.io/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>2nd blog</title>
+		<link>https://helloarman.github.io/blog/2nd-blog/</link>
+					<comments>https://helloarman.github.io/blog/2nd-blog/#respond</comments>
+		
+		<dc:creator><![CDATA[Arman Rahman]]></dc:creator>
+		<pubDate>Fri, 30 Jul 2021 18:55:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://helloarman.github.io/blog/?p=39</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet consectetur, adipiscing elit justo. Placerat aliquet dictum quis fusce duis, pellentesque eleifend turpis purus. Congue cum mus auctor ante arcu, aenean ornare vel condimentum. Tempus blandit viverra bibendum orci sagittis, convallis curae natoque. Etiam vivamus phasellus feugiat eget mollis, litora rhoncus ullamcorper. Sociosqu sagittis dapibus tellus netus tristique faucibus, interdum [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet consectetur, adipiscing elit justo.<br />
+Placerat aliquet dictum quis fusce duis, pellentesque eleifend turpis purus.<br />
+Congue cum mus auctor ante arcu, aenean ornare vel condimentum.<br />
+Tempus blandit viverra bibendum orci sagittis, convallis curae natoque.<br />
+Etiam vivamus phasellus feugiat eget mollis, litora rhoncus ullamcorper.<br />
+Sociosqu sagittis dapibus tellus netus tristique faucibus, interdum euismod curabitur dictum.<br />
+Cum rhoncus justo luctus in eu a, nulla sed suspendisse penatibus.<br />
+Turpis tortor massa nec potenti leo, congue sollicitudin mauris sodales.<br />
+Sem fames felis sapien nisl, libero cursus eu.<br />
+Taciti accumsan primis purus erat ridiculus, tellus dignissim suspendisse.<br />
+Aenean rutrum nostra himenaeos ultrices varius, quis nulla ornare.<br />
+Gravida eleifend tortor porta maecenas vel litora, duis euismod fames cursus.<br />
+Quam odio suscipit himenaeos vel phasellus, dui sed morbi massa.<br />
+Tellus feugiat hac dignissim nulla ultricies, arcu dictumst eros senectus.<br />
+Venenatis aptent sodales primis, scelerisque tempus eleifend, at sem.<br />
+At ullamcorper egestas non morbi, ac class parturient.<br />
+Rutrum penatibus interdum habitant aptent, ullamcorper quis aliquet.<br />
+Magnis felis blandit torquent imperdiet, est eros integer.<br />
+Varius curabitur ultrices nisi sociis, congue orci.<br />
+Blandit tincidunt quisque netus metus, libero habitant inceptos.<br />
+Ridiculus id metus ultrices hac, curae ad dapibus.<br />
+Turpis ullamcorper orci porta dapibus dictumst, erat curabitur massa nunc.<br />
+Commodo euismod quis et magnis dui, quisque mus mollis.<br />
+Suscipit in venenatis lacus netus quis, aenean enim vestibulum.<br />
+Nunc dictum velit a cursus, luctus sociosqu cras.<br />
+Venenatis cubilia orci enim magnis, etiam scelerisque turpis.<br />
+Facilisi nulla elementum placerat cubilia euismod nibh, rhoncus aptent hac auctor.<br />
+Donec nascetur magnis malesuada sem erat, taciti mollis libero.<br />
+Urna potenti natoque justo bibendum pretium, pharetra tincidunt id.<br />
+Sollicitudin augue auctor faucibus malesuada lacinia, nam rutrum venenatis.<br />
+Dictum eros lacus tristique volutpat in dictumst, rhoncus tincidunt sed montes.<br />
+Varius habitant nisl phasellus, vestibulum cubilia, cursus volutpat.<br />
+Mi accumsan enim rhoncus, dis diam ut, turpis id.<br />
+Condimentum eu sociosqu pharetra leo platea, eget rhoncus est volutpat.<br />
+Cras libero senectus eros ullamcorper, curae lobortis porttitor.<br />
+Eu inceptos varius est nunc congue, nulla faucibus habitant etiam.<br />
+Curabitur senectus hendrerit bibendum ullamcorper commodo, leo scelerisque maecenas.<br />
+Ante posuere lobortis curabitur curae, facilisis praesent quisque.<br />
+Ligula convallis interdum curae nascetur felis sollicitudin, quisque posuere quis eleifend.<br />
+Nam nunc praesent fringilla luctus congue, a risus platea.<br />
+Vulputate nisi congue quam suscipit viverra hac, velit conubia semper justo.<br />
+Quisque leo curabitur morbi suscipit facilisi, vitae enim eleifend.<br />
+Arcu ullamcorper mus dignissim pharetra magna, feugiat lectus sodales orci.<br />
+Tempus auctor primis maecenas augue sociis, dui rhoncus torquent.<br />
+Suscipit fringilla laoreet sed per, augue vivamus.<br />
+Risus egestas venenatis morbi tortor sed, at ridiculus semper varius.<br />
+Habitant phasellus risus nibh facilisi commodo, feugiat conubia hac.<br />
+Venenatis eros orci egestas rutrum, ullamcorper iaculis curae.<br />
+Tincidunt neque nascetur nulla suscipit, platea justo interdum.<br />
+Metus aenean pellentesque netus leo class, ligula et fringilla habitasse.<br />
+Arcu pellentesque nunc ridiculus natoque fringilla, dis consequat id.<br />
+Libero habitasse elementum massa tempus eget, donec semper risus proin.<br />
+Mi nisi auctor class vehicula, vestibulum pulvinar mattis.<br />
+Libero venenatis turpis sem, maecenas fringilla ultricies rutrum, diam dictum.<br />
+Dui inceptos nibh leo sollicitudin sociosqu, facilisi pharetra pellentesque sed.<br />
+Mus per ultricies cum commodo, in ligula.<br />
+Elementum nunc sodales diam integer suspendisse, eu sociis hac.<br />
+Vehicula commodo in vestibulum euismod torquent, felis ultricies et penatibus.<br />
+Arcu lectus pretium imperdiet inceptos, turpis mauris molestie.<br />
+Non nisl vehicula mi nullam rutrum, convallis cum nibh.<br />
+Lobortis sed viverra massa nullam, egestas congue turpis.<br />
+Ad fermentum sociosqu iaculis magna mus, himenaeos morbi maecenas.<br />
+Venenatis dapibus vulputate class porta, arcu sed commodo.<br />
+Est purus nisi habitasse sociosqu, etiam tincidunt.<br />
+Risus nunc eu varius vivamus torquent, suspendisse leo vitae.<br />
+Tincidunt pulvinar a diam ac, sociis dui lobortis.<br />
+Auctor nunc placerat primis eleifend aliquam, semper dictum habitant.<br />
+Ultricies pellentesque hendrerit cum vel aliquet, congue convallis facilisi quisque.<br />
+Luctus gravida nec a taciti lectus vulputate, tellus lobortis viverra semper.<br />
+Ante vivamus porttitor ornare viverra, varius interdum congue.<br />
+Luctus auctor tincidunt euismod eros vel, orci natoque vulputate integer.<br />
+Praesent vel condimentum quis vehicula ultricies, sagittis pulvinar mattis.<br />
+Cursus laoreet aptent malesuada nulla viverra, porttitor dui tempus risus.<br />
+Vivamus quam risus eros habitant viverra, egestas mattis molestie.<br />
+Metus aptent arcu hac ligula id maecenas, vitae phasellus at nisl.<br />
+Ornare cubilia gravida dui, suspendisse congue eget, euismod blandit.<br />
+Suscipit condimentum ad ut diam mi, ridiculus dictumst lectus penatibus.<br />
+Lectus sociis placerat mollis montes dis, eleifend faucibus sociosqu.<br />
+Euismod consequat integer ligula et, varius luctus.<br />
+Ultricies inceptos tristique sem lobortis feugiat, quam dui velit.<br />
+Praesent rutrum feugiat suscipit eros nisl risus, viverra ut dictum conubia.<br />
+Sem per aenean vehicula maecenas, purus pulvinar vulputate.<br />
+Vulputate vivamus tristique metus commodo in, a morbi et curae.<br />
+Cubilia ante tempus habitasse eu, donec praesent varius.<br />
+Conubia venenatis cursus arcu suspendisse, nam ante diam.<br />
+Torquent placerat congue sed volutpat hac, malesuada eleifend fringilla.<br />
+Laoreet arcu elementum orci nisl, ridiculus pulvinar donec.<br />
+Sociis placerat semper quam nullam, dignissim auctor.<br />
+Hendrerit vulputate dis cum faucibus pretium, accumsan nostra habitant.<br />
+Lectus donec hendrerit vitae etiam metus, dapibus sociosqu nulla.<br />
+Nullam mi sociosqu ornare quis hendrerit, aptent augue porta suscipit.<br />
+Phasellus posuere luctus blandit est mi, fames quisque suscipit ligula.<br />
+Habitant pretium phasellus id erat dictumst, integer tincidunt euismod.<br />
+Diam ornare sociis cubilia, metus lacus.<br />
+Pulvinar taciti parturient nulla sociis curabitur, dictumst pellentesque ut.<br />
+Tortor quis tincidunt condimentum ante, feugiat tellus vehicula.<br />
+Donec condimentum platea sollicitudin nullam elementum tincidunt, mus rhoncus aliquet neque ante.<br />
+Vivamus semper at nec mus habitasse fames, et rutrum montes ante.<br />
+Tempus praesent quis phasellus mollis inceptos, potenti leo molestie nulla.<br />
+Ultrices porta neque sem aliquet cum, rhoncus dui massa.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://helloarman.github.io/blog/2nd-blog/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>1st Blog test</title>
+		<link>https://helloarman.github.io/blog/1st-blog-test/</link>
+					<comments>https://helloarman.github.io/blog/1st-blog-test/#respond</comments>
+		
+		<dc:creator><![CDATA[Arman Rahman]]></dc:creator>
+		<pubDate>Fri, 30 Jul 2021 18:16:06 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://helloarman.github.io/blog/?p=13</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet consectetur adipiscing elit etiam, suscipit dictum eleifend blandit rhoncus conubia morbi euismod consequat, habitasse augue mi pellentesque facilisi auctor aliquam. Libero interdum natoque dapibus nisl porttitor neque eu magna purus taciti, ultricies vel faucibus torquent felis volutpat nostra cursus ante, donec velit sodales quam pharetra tempor placerat congue aenean. Porta [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit etiam, suscipit dictum eleifend blandit rhoncus conubia morbi euismod consequat, habitasse augue mi pellentesque facilisi auctor aliquam. Libero interdum natoque dapibus nisl porttitor neque eu magna purus taciti, ultricies vel faucibus torquent felis volutpat nostra cursus ante, donec velit sodales quam pharetra tempor placerat congue aenean. Porta dis cum pretium nullam orci cras proin, odio sollicitudin tortor vivamus vestibulum sapien tempus himenaeos, ut tincidunt nibh praesent litora feugiat. Tellus enim laoreet platea quisque vitae venenatis viverra nunc, justo eget hendrerit lacus curae nam ornare metus, cubilia inceptos integer dui per maecenas aliquet.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://helloarman.github.io/blog/1st-blog-test/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
